@@ -124,10 +124,7 @@
     _scoreLabel.visible = true;
 }
 
-- (void)update:(CCTime)delta
-}
-
-}
+- (void)update:(CCTime)delta {
 {
     _sinceTouch += delta;
     
